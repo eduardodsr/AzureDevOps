@@ -14,9 +14,9 @@ https://www.udemy.com/course/azurepipelines/learn/lecture/21787558
 - [X] 5. Azure DevOps - Serviços e Principais Recursos
 - [X] 6. Precificação do Azure DevOps e Azure Pipeline
 - [X] 7. [Hands-On] Explorando o Azure DevOps
-- [ ] 8. [Hands-On] Usuários, Dashboard e Wiki
-- [ ] 9. [Hands-On] Azure Boards
-- [ ] 10. [Hands-On] Azure Repos
+- [x] 8. [Hands-On] Usuários, Dashboard e Wiki
+- [x] 9. [Hands-On] Azure Boards
+- [x] 10. [Hands-On] Azure Repos
 - [ ] 11. [Hands-On] Azure Test Plan
 - [ ] 12. [Hands-On] Azure Artifacts
 - [ ] 13. [Hands-On] Extensões do Market Place
