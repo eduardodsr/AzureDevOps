@@ -3,6 +3,7 @@
 ## GitHub - Links
 
 https://docs.microsoft.com/pt-br/learn/paths/evolve-your-devops-practices/
+
 https://github.com/julioarruda/Curso-Azure-DevOps
 
 ## Azure DevOps
@@ -61,7 +62,7 @@ https://github.com/julioarruda/Curso-Azure-DevOps
 - [x] [Criando uma nova Conta no Azure DevOps](https://youtu.be/hq3wEy-TQ5I)
 - [x] [Criando um novo Projeto](https://youtu.be/wqIcWQRlmXs)
 
-### Conhecendo o Overview
+### Conhecendo o Overview ❌
 
 - [ ] [Conhecendo os Dashboards](https://youtu.be/1qoMh6qwoA0)
 - [ ] [Criando e Personalizando um novo Dashboard](https://youtu.be/aZ8o4IUFR68)
@@ -70,7 +71,7 @@ https://github.com/julioarruda/Curso-Azure-DevOps
 - [ ] [Personalizando o Summary](https://youtu.be/wXwPQOHAOhQ)
 - [ ] [Gerando Relatórios Avançados com PowerBI](https://youtu.be/aDGhYs6LySU)
 
-### Trabalhando com Azure Repos
+### Trabalhando com Azure Repos ❌
 
 - [ ] [Criando seu repositorio Git no Azure DevOps](https://youtu.be/8tyFhaBD0Nw)
 - [ ] [Clonando seu repositorio GIT com Visual Studio](https://youtu.be/UybEhnD3N0k)
@@ -85,24 +86,24 @@ https://github.com/julioarruda/Curso-Azure-DevOps
 - [ ] [Criando uma Branch em seu repositório TFVC no Azure DevOps](https://youtu.be/T58WG2kVH40)
 - [ ] [Realizando Checkout TFVC com Azure DevOps](https://youtu.be/iEOkZcDhoYE)
 - [ ] [Realizando o Checkin de seu projeto com o Visual Studio](https://youtu.be/CqH_xtdSSnE)
-- [ ] [Oque é um Shelveset](https://youtu.be/1jxuf3K4n4M)
+- [ ] [O que é um Shelveset](https://youtu.be/1jxuf3K4n4M)
 - [ ] [Criando um Shelveset](https://youtu.be/j72j_KJZmZ4)
 - [ ] [Recuperando um Shelveset](https://youtu.be/F0Ugjof-RiA)
 
-### Trabalhando com o Azure Boards
+### Trabalhando com o Azure Boards ❌
 
-- [ ] [Oque são os WorkItems do Azure DevOps](https://youtu.be/QdyDK0qTvso)
+- [ ] [O que são os WorkItems do Azure DevOps](https://youtu.be/QdyDK0qTvso)
 - [ ] [Conhecendo o Backlog no Azure DevOps](https://youtu.be/AWAd7zHQCyM)
 - [ ] [Conhecendo o Board de Tarefas do Azure DevOps](https://youtu.be/Y5D_P9NQJA4)
 - [ ] [Criando uma nova Sprint no Azure DevOps](https://youtu.be/p9KHM9xVs9w)
 - [ ] [Criando uma nova Branch GIT a partir de um Work Item](https://youtu.be/-jvGxP5Q8nU)
-- [ ] [Oque são Queries de Work Items](https://youtu.be/IEEg2y2Jz8I)
+- [ ] [O que são Queries de Work Items](https://youtu.be/IEEg2y2Jz8I)
 - [ ] [Criando Novas Queries de Work Item](https://youtu.be/IzjkZnO9pOU)
 
-### Agentes de Build e Release
+### Agentes de Build e Release ❌
 
-- [ ] [Oque são os Agentes de Build e Release](https://youtu.be/ooAlpKtF7ls)
-- [ ] [Oque é um Pool de Agentes](https://youtu.be/yXRwZEd1dIw)
+- [ ] [O que são os Agentes de Build e Release](https://youtu.be/ooAlpKtF7ls)
+- [ ] [O que é um Pool de Agentes](https://youtu.be/yXRwZEd1dIw)
 - [ ] [Criando um novo Pool de Agentes](https://youtu.be/_oNzl4SILbk)
 - [ ] [Instalando um Agente Windows](https://youtu.be/MA8oetWHwYI)
 - [ ] [Instalando um Agente Linux](https://youtu.be/MXPjO2NXf_0)
@@ -114,9 +115,9 @@ https://github.com/julioarruda/Curso-Azure-DevOps
 - [ ] [Compartilhando um Deployment Group com outros Projetos](https://youtu.be/2FFnCmwmy2g)
 - [ ] [Atualizando os Agentes do Deployment Group](https://youtu.be/HA2lFkgr2OE)
 
-### Azure Pipelines - [ ] Builds
+### Azure Pipelines - [ ] Builds ❌
 
-- [ ] [Oque é o Processo de Build](https://youtu.be/s2yyWYVCNr8)
+- [ ] [O que é o Processo de Build](https://youtu.be/s2yyWYVCNr8)
 - [ ] [Quais os tipos de Definições de Build permitidos no Azure DevOps](https://youtu.be/-A8qYswJ898)
 - [ ] [Criando uma nova definição de Build Modelo Visual](https://youtu.be/KAxIo5O6FYI)
 - [ ] [Executando suas Builds após a finalização de outras](https://youtu.be/6h3DcDAqh0c)
@@ -128,33 +129,33 @@ https://github.com/julioarruda/Curso-Azure-DevOps
 - [ ] [Build Templates YAML](https://youtu.be/tqznM2yN1aM)
 - [ ] [Organizando suas Definições de Build](https://youtu.be/cNk04bdF0QE)
 
-### Azure Pipelines - [ ] Releases
+### Azure Pipelines - [ ] Releases ❌
 
-- [ ] [Oque é o Processo de Release](https://youtu.be/chy-UBVyIw4)
+- [ ] [O que é o Processo de Release](https://youtu.be/chy-UBVyIw4)
 - [ ] [Criando um novo Pipeline de Release](https://youtu.be/jbIsP-OK2_s)
-- [ ] [Oque é um Agent Job](https://youtu.be/bSTeliOK8Oo)
-- [ ] [Oque é um Agentless Phase](https://youtu.be/7Z0UG_hu6yE)
-- [ ] [Oque é um Deployment Group Job](https://youtu.be/CU0qxPjkl1I)
+- [ ] [O que é um Agent Job](https://youtu.be/bSTeliOK8Oo)
+- [ ] [O que é um Agentless Phase](https://youtu.be/7Z0UG_hu6yE)
+- [ ] [O que é um Deployment Group Job](https://youtu.be/CU0qxPjkl1I)
 - [ ] [Trabalhando com Variáveis em sua Release](https://youtu.be/OVMqf_XsXPg)
 - [ ] [Trabalhando com Grupos de Variáveis](https://youtu.be/wOfBoaSQxWU)
-- [ ] [Oque são Release Gates e Como habilitá los](https://youtu.be/gYB6rqxsqdo)
+- [ ] [O que são Release Gates e Como habilitá los](https://youtu.be/gYB6rqxsqdo)
 - [ ] [Configurando um Deployment para o Azure](https://youtu.be/dmX0nKwpQ64)
 - [ ] [Configurando um Deployment em Ambiente OnPremisses](https://youtu.be/xJWqbOyWNMU)
 - [ ] [Configurando um Deploy via FTP](https://youtu.be/egpaRFwj3Ps)
 
-### Library
+### Library ❌
 
-- [ ] [Oque são as Librarys](https://youtu.be/RYr76xnSSXk)
+- [ ] [O que são as Librarys](https://youtu.be/RYr76xnSSXk)
 - [ ] [Criando Grupos de Variáveis](https://youtu.be/UYEFnjT9_IE)
 
-### Azure Artifacts
+### Azure Artifacts ❌
 
-- [ ] [Oque é, e como funciona o Azure Artifacts](https://youtu.be/2_8yrsRo1o4)
+- [ ] [O que é, e como funciona o Azure Artifacts](https://youtu.be/2_8yrsRo1o4)
 - [ ] [Criando seu Primeiro Feed e Upload de um pacote Nuget Manualmente](https://youtu.be/J0Lk5a7r5OU)
 - [ ] [Realizando o Upload de um pacote Nuget Através do Processo de Build ou Release](https://youtu.be/KknfiVCXZow)
 - [ ] [Consumindo seu Feed no Visual Studio](https://youtu.be/3ChYnLSaMAM)
 
-### Configurações da Conta
+### Configurações da Conta ❌
 
 - [ ] [Alterando URL e Proprietário da Conta](https://youtu.be/r7bBcwq_1lA)
 - [ ] [Analisando o Uso do Azure DevOps](https://youtu.be/p7c5fMCR-QM)
@@ -165,12 +166,12 @@ https://github.com/julioarruda/Curso-Azure-DevOps
 - [ ] [Notificações Padrão](https://youtu.be/a4KytuXs5A8)
 - [ ] [Renomeando e Excluindo Projetos](https://youtu.be/OelOcGRsMhE)
 
-### Segurança da Conta
+### Segurança da Conta ❌
 
 - [ ] [Segurança e Grupos Globais](https://youtu.be/i19FNZwbH54)
 - [ ] [Politicas de Segurança da Conta](https://youtu.be/wShmRbsaNeA)
 
-### Gerenciamento Work
+### Gerenciamento Work ❌
 
 - [ ] [Conhecendo os Templates](https://youtu.be/0EZ5mnxkVMw)
 - [ ] [Criando um Inherited Process](https://youtu.be/tP2-o2IxFXc)
@@ -181,30 +182,30 @@ https://github.com/julioarruda/Curso-Azure-DevOps
 - [ ] [Aplicando e testando um novo template](https://youtu.be/LtYYeycxUo0)
 - [ ] [Criando Regras para WorkItens](https://youtu.be/rKOl0X2d8wE)
 
-### Configurações do Projeto
+### Configurações do Projeto ❌
 
 - [ ] [Configurando Notificações por Time](https://youtu.be/oF15w7WaWpA)
 - [ ] [Gerenciando, Criando e Excluindo Times](https://youtu.be/b7Sc_YB-_ww)
 - [ ] [Grupos e Permissões](https://youtu.be/Bsyx2LKSoM8)
 - [ ] [Habilitando e Desabilitando Funcionalidades](https://youtu.be/R0Brjn8sY2w)
-- [ ] [Oque são e como configurar Services Endpoints](https://youtu.be/Le2YXEhqnvM)
-- [ ] [Oque são e como configurar Service Hooks](https://youtu.be/8_-grQLIlFM)
+- [ ] [O que são e como configurar Services Endpoints](https://youtu.be/Le2YXEhqnvM)
+- [ ] [O que são e como configurar Service Hooks](https://youtu.be/8_-grQLIlFM)
 - [ ] [Renomeando o Projeto e Incluindo uma descrição](https://youtu.be/_bdjl5WDfRo)
 
-### Configurações de Work
+### Configurações de Work ❌
 
 - [ ] [Project Configuration](https://youtu.be/eJscFzkGyJk)
 - [ ] [Team Configuration](https://youtu.be/muZoG4gDoB0)
 
-### Configurações de Build e Release
+### Configurações de Build e Release ❌
 
 - [ ] [Paralell Jobs](https://youtu.be/MuEjkH8Qo8s)
 
-### Configurações de Repositório
+### Configurações de Repositório ❌
 
 - [ ] [Permissões em Repositorios](https://youtu.be/lK5p30vok64)
 
-### Configurações de Usuário
+### Configurações de Usuário ❌
 
 - [ ] [Análise de uso do usuário](https://youtu.be/ji4mrYS78ks)
 - [ ] [Configurando Credenciais Alternativas](https://youtu.be/G3rCECx3g3U)
